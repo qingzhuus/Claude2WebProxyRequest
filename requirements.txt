@@ -1,0 +1,4 @@
+curl_cffi==0.5.10b3
+requests
+uvicorn
+flask
